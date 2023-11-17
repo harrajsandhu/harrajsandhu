@@ -26,7 +26,7 @@
 
 ###
 
-<p align="center">I'm Harraj Sandhu from Canada<br><br>🔭 I’m working as a Cloud Engineer @Rackspace</p>
+<p align="center">🔭 I’m working as a Cloud Engineer @Rackspace</p>
 
 ###
 
