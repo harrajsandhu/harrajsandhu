@@ -89,7 +89,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=harrajsandhu" height="220" alt="streak graph"  />
+  [![GitHub Streak](https://streak-stats.demolab.com?user=harrajsandhu)](https://git.io/streak-stats)
 </div>
 
 ###
